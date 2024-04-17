@@ -1,2 +1,2 @@
-# weatherapp
-it is a web app using html css js and api
+# WeatherApp
+this is use to fatch current weather form api and display it on website 
